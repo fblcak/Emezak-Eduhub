@@ -5,7 +5,7 @@ Emezak-Eduhub
 
 ## Demo
 
-![My Image](REAME.md.mp4)
+![Emezak-Eduhub Desktop Demo](./images/README.md.mp4)
 
 ## Prerequisites
 
