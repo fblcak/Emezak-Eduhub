@@ -5,7 +5,7 @@ Emezak-Eduhub
 
 ## Demo
 
-![Emezak-Eduhub](./reADme-images/blog2.JPG)
+![Emezak-Eduhub](./reADme-images/Dimage.JPG)
 
 
 ## Prerequisites
