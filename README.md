@@ -5,7 +5,7 @@ Emezak-Eduhub
 
 ## Demo
 
-![My Image](../images/README.md.mp4)
+![My Image](../images/logo1.jpg)
 
 ## Prerequisites
 
@@ -31,7 +31,7 @@ git clone https://fblcak.github.io/Emezak-Eduhub/
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/Freddyblcak),[Instagram](https://www.instagram.com/freddyalabaster),[Facebook](https://www.facebook.com/Frederick Kojo Adzoho)
+If you want to contact me you can reach me at [Twitter](https://www.twitter.com/Freddyblcak),[Instagram](https://www.instagram.com/freddyalabaster),[Facebook](https://www.facebook.com/FrederickKojoAdzoho)
 
 ## License
 
