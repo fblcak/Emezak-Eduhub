@@ -5,7 +5,7 @@ Emezak-Eduhub
 
 ## Demo
 
-![My Image](../images/logo1.jpg)
+![My Image](images/README.md.mp4)
 
 ## Prerequisites
 
